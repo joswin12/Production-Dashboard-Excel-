@@ -72,7 +72,7 @@ This dashboard helps track production performance across regions, managers, and 
 
 ## How to Use the Dashboard
 
-- Open `Excel-Dashboard-2.xlsx` and navigate to the `Dashboard` sheet.  
+- Open `Production Dashboard (Excel).xlsx` and navigate to the `Dashboard` sheet.  
 - Use slicers (Region, Manager, ProductType, Year) to analyze cost and production trends for specific segments.  
 - Review:
   - Total Cost by Product Type chart to see where most spending occurs.
